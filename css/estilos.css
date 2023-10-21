@@ -485,7 +485,6 @@ footer{
     .textos-header h2{
         font-size: 20px;
     }
-
     /* ABOUT US */
 
     .imagen-about-us{
@@ -497,7 +496,18 @@ footer{
         width: 95%;
     }
 
+
     /* Galeria */
+    .metodologias{
+        width: 100%;
+        align-items: center;
+    }
+    .info, .photos{
+        width: 100%;
+    }
+    
+
+    
 
     .imagen-port{
         width: 95%;
